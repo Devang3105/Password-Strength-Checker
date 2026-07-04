@@ -14,15 +14,6 @@ A Python-based Password Strength Checker with a Tkinter GUI.
 - Graphical User Interface (Tkinter)
 - Unit tests using Python's unittest module
 
-## Project Structure
-
-Password-Strength-Checker/
-│── main.py
-│── password_checker.py
-│── password_checker_gui.py
-│── test_password_checker.py
-│── README.md
-│── test_cases.txt
 
 ## Technologies Used
 
