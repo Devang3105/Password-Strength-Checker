@@ -1,0 +1,66 @@
+Test Case 1
+Input:
+hello
+
+Expected:
+Weak
+
+
+------------------------
+
+Test Case 2
+Input:
+Hello123
+
+Expected:
+Medium
+
+
+------------------------
+
+Test Case 3
+Input:
+Hello123@
+
+Expected:
+Strong
+
+
+------------------------
+
+Test Case 4
+Input:
+PASSWORD
+
+Expected:
+Weak
+
+
+------------------------
+
+Test Case 5
+Input:
+12345678
+
+Expected:
+Weak
+
+
+------------------------
+
+Test Case 6
+Input:
+password
+
+Expected:
+Weak
+
+
+------------------------
+
+Test Case 7
+Input:
+Pass@12345
+
+Expected:
+Strong
